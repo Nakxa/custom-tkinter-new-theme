@@ -23,12 +23,12 @@ For a complete list of dependencies, see `requirements.txt`.
 
 1. Clone this repository:
    ```
-   git clone https://github.com/nakxa/customtkinter-theme-project.git
+   git clone git remote add origin https://github.com/Nakxa/custom-tkinter-new-theme.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd customtkinter-theme-project
+   cd custom-tkinter-new-theme
    ```
 
 3. Install the required packages:
